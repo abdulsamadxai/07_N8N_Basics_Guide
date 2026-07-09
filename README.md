@@ -239,7 +239,7 @@ You have now seen every piece an AI Agent is built from. Trigger, model, memory,
 ```mermaid
 flowchart TD
     A["✅ You finished this guide\nyou now understand every piece\nn8n is built from!"]:::done
-    A --> B["🤖 Next - Build a Real Chatbot in n8n\nconnect Chat Trigger + AI Agent + Groq\nyour first working n8n chatbot"]:::blue
+    A --> B["🤖 Next - Build a Real Chatbot in n8n"]:::blue
 
     classDef done fill:#1a3a2a,stroke:#34d399,color:#6ee7b7
     classDef blue fill:#1e3a5f,stroke:#4a8fd4,color:#a8d4ff
